@@ -1,0 +1,21 @@
+what is web gl & three.js
+making a cube as quick as possible
+transformations
+animations
+setting up vite
+making responsive
+orbit controls (allow to control the thing with mouse)
+geometries
+textures
+materials
+lil-gui
+lights
+adding 3d models
+
+
+
+scene
+camera
+mesh -> geometry and material
+renderer
+request animation frame
